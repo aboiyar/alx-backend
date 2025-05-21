@@ -1,0 +1,19 @@
+# English translations for PROJECT.
+# Copyright (C) 2025 Moses Aboiyar
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <moses.aboiyar@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: moses.aboiyar@gmail.com\n"
+"POT-Creation-Date: 2025-05-21 21:26+0000\n"
+"PO-Revision-Date: 2025-05-21 21:26+0000\n"
+"Last-Translator: Moses Aboiyar <moses.aboiyar@gmail.com>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
